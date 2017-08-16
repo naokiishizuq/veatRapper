@@ -68,7 +68,7 @@ var videoSeqName = "videoSeq";
 var baseUrl = "https://api.instagram.com/v1/";
 var users = "users/self/";
 var search = "media/recent/?"
-var access_token = "access_token=5383066242.450d69b.67b1608e087f4ab595094e7a7d5568da";
+var access_token = "";//put your token
 
 var cmdLine0 = "wget";
 var cmdLine1 = "mv";
